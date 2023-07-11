@@ -3,6 +3,7 @@ package com.company;
 public class ArrayListEx {
     public static void main(String[] args) {
         for(String R̥:args){
+            //hello new i am here
             Boolean b=true;
             char[] values=R̥.toCharArray();
             System.out.println(R̥);
